@@ -18,9 +18,9 @@ export default function RootLayout({
           alt={"logo"}
         />
         <Link href="/">
-          <h1 className="text-2xl text-white font-bold mt-4">Jack's Blog</h1>
+          <h1 className="text-2xl text-white font-bold mt-4">Truly.tk</h1>
         </Link>
-        <p className="text-slate-300">🤟 Welcome to my tech blog. 💻</p>
+        <p className="text-slate-300">Get news from truly.tk</p>
       </div>
     </header>
   );
